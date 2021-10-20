@@ -1,7 +1,14 @@
 .title {
   color: blue;
-  font-size: 150px;
+  font-size: 120px;
 }
-body{
-  background-color: aquamarine;
+
+.subTitle {
+  color: rgb(10, 10, 167);
+  font-size: 100px;
+}
+
+.body {
+  color: rgb(20, 20, 82);
+  font-size: 25px;
 }
